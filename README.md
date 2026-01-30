@@ -12,7 +12,7 @@ A high-performance Rust tool that extracts and categorizes proxy, VPN, and threa
 
 ## Categories
 
-Extracts data for: Public Proxy, Data Center, Commercial, Education, Government, ISP, Mobile, Spam, Scanner, Botnet, and Bogon IPs.
+Extracts data for: `ip2proxy_pub` (Public Proxy), `ip2proxy_dch` (Data Center), `ip2proxy_com` (Commercial), `ip2proxy_edu` (Education), `ip2proxy_gov` (Government), `ip2proxy_isp` (ISP), `ip2proxy_mob` (Mobile), `ip2proxy_spam` (Spam), `ip2proxy_scanner` (Scanner), `ip2proxy_botnet` (Botnet), and `ip2proxy_bogon` (Bogon).
 
 ## Usage
 
