@@ -31,7 +31,7 @@ Generates `lists.json` with timestamp and categorized IP addresses/ranges:
 {
   "timestamp": 1234567890,
   "lists": {
-    "ip2proxy_vpn": {
+    "ip2proxy_pub": {
       "addresses": [123456789, ...],
       "networks": [[123456789, 123456890], ...]
     },
