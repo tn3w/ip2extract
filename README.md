@@ -5,14 +5,14 @@ A high-performance Rust tool that extracts and categorizes proxy, VPN, and threa
 ## Features
 
 - Parallel processing of IP2Proxy binary databases using Rayon
-- Automatic categorization of IPs into 17 threat categories (VPN, TOR, Botnet, Malware, etc.)
+- Automatic categorization of IPs into 11 threat categories (Proxy, Mobile, Spam, etc.)
 - Efficient memory-mapped file handling
 - Outputs sorted, deduplicated lists in JSON format
 - Automated updates via GitHub Actions
 
 ## Categories
 
-Extracts data for: VPN, TOR, Public Proxy, Web Proxy, Residential, Data Center, Commercial, Education, Government, ISP, Mobile, Spam, Scanner, Botnet, Malware, Phishing, and Bogon IPs.
+Extracts data for: Public Proxy, Data Center, Commercial, Education, Government, ISP, Mobile, Spam, Scanner, Botnet, and Bogon IPs.
 
 ## Usage
 
